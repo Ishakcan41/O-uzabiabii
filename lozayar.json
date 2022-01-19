@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["749571525342134272"],
+        "ACTIVITY_TEXT": "Øxynos Kölesi",
+        "GUILD_ID": "933292385335664650",
+        "VOICE_CHANNEL": "933302839911014430",
+        "MIN_STAFF_ROLE": "933302532460126218"
+    },
+    "FILES": {
+        "WELCOME": "ses/hosgeldin.mp3",
+        "STAFF": "ses/yetkili.mp3"
+    },
+    "TOKEN": ""
+} 
